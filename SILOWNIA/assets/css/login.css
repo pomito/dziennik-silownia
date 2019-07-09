@@ -1,0 +1,45 @@
+.login-container {
+   margin-top: 5%;
+   margin-bottom: 5%;
+
+}
+
+.login-form-1 {
+   padding: 5%;
+   box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+   background-color: white;
+}
+
+.login-form-1 h3 {
+   text-align: center;
+   color: #218838;
+}
+
+.login-form-2 {
+   padding: 5%;
+   background: #218838;
+   box-shadow: 0 5px 8px 0 rgba(0, 0, 0, 0.2), 0 9px 26px 0 rgba(0, 0, 0, 0.19);
+}
+
+.login-form-2 h3 {
+   text-align: center;
+   color: #fff;
+}
+
+.login-container form {
+   padding: 10%;
+}
+
+.label-2 {
+   color: white;
+}
+
+.label-1 {
+   color: #218838;
+}
+
+.logo p {
+   border: 2px solid black;
+   margin: 100px auto;
+   padding: 20px;
+}
